@@ -139,7 +139,7 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#492718"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#CDB0A1"
 navbar-col: "#C7B89C"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
