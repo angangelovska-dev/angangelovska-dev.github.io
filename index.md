@@ -5,7 +5,7 @@ title: Your Name
 
 # Your Name
 
-![Photo of Your Name](img/graduationPhoto.jpeg)
+![Photo of Your Name](assets/img/graduationPhoto.jpeg)
 
 **I build software and turn data into clear decisions.**
 
