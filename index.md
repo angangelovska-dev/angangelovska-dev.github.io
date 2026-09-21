@@ -3,7 +3,7 @@ layout: default
 title: Your Name
 ---
 
-# Your Name
+# Angela Angelovska
 
 <img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400">
 
@@ -16,9 +16,7 @@ B.A. in Computer Science at DePaul University, with a year of business studies i
 
 ## About me
 
-I studied computer science at DePaul in Chicago, then spent 2025 to 2026 abroad studying business in Sweden and France. I like working where code meets people: writing software, making sense of data, and explaining both in plain language.
-
-Outside of class I've advised a startup CEO, guided incoming students as a college ambassador, and built reports that help a team see what needs fixing.
+Hey! I’m Angela Angelovska, a double-degree student studying Computer Science and Business Administration. Outside of the classroom, I’ve advised a digital mental health startup, supported incoming students as a college ambassador, audited classroom technology setup, and developed reports to identify and address facility issues.
 
 ---
 
@@ -67,8 +65,6 @@ Outside of class I've advised a startup CEO, guided incoming students as a colle
 *Bachelor thesis, Linköping University*
 
 A qualitative study of how corporate social responsibility reporting relates to customer loyalty in the airline industry. I interviewed airline professionals across the United States and Scandinavia.
-
-`Qualitative research` `Interviews` `Industry analysis`
 
 ### Currently working on
 
