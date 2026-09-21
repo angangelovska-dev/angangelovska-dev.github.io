@@ -3,9 +3,11 @@ layout: default
 title: Your Name
 ---
 
-# Angela Angelovska
+<p align="center">
+  Angela Angelovska 
+</p>
 
-<img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400">
+<p align="center"><img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400"></p>
 
 [GitHub](https://github.com/angangelovska-dev) | [LinkedIn](https://www.linkedin.com/in/angela-angelovska-997018315) | [Email](mailto:angangelovska17@gmail.com)
 
