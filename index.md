@@ -3,9 +3,7 @@ layout: default
 title: Your Name
 ---
 
-<p align="center">
-  Angela Angelovska 
-</p>
+<h2 align="center">Angela Angelovska</h2>
 
 <p align="center"><img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400"></p>
 
