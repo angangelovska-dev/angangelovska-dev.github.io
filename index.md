@@ -7,10 +7,6 @@ title: Your Name
 
 <img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400">
 
-**I build software and turn data into clear decisions.**
-
-B.A. in Computer Science at DePaul University, with a year of business studies in Sweden and France.
-
 [GitHub](https://github.com/angangelovska-dev) | [LinkedIn](https://www.linkedin.com/in/angela-angelovska-997018315) | [Email](mailto:angangelovska17@gmail.com)
 
 
