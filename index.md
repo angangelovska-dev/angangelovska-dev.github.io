@@ -66,7 +66,7 @@ A qualitative study of how corporate social responsibility reporting relates to 
 
 **Timed to-do app** (Java, Spring Boot)
 
-A task manager where each to-do has a deadline and a timer, so you can see what's due soon.
+A task management application with task creation and time tracking.
 
 ---
 
