@@ -1,14 +1,101 @@
 ---
-layout: page
-title: About me
+layout: default
+title: Your Name
 ---
 
-Hello my name is Angela Angelovska. My skills are...
+# Your Name
 
-Programming Languages: Java, Python, SQL
-Frameworks & Libraries: JavaFX, Plotly, Pandas
-Web Development: HTML, CSS, JavaScript, WordPress
-Tools & Version Control: Git, GitHub, Maven, Trello, Google Workspace
-Data Analytics: SPSS, Microsoft Excel, Google Sheets
+![Photo of Your Name](img/graduationPhoto.jpeg)
 
-### My story
+**I build software and turn data into clear decisions.**
+
+B.A. in Computer Science at DePaul University, with a year of business studies in Sweden and France.
+
+[Résumé (PDF)](resume.pdf) | [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) | [Email](mailto:you@example.com)
+
+
+## About me
+
+I studied computer science at DePaul in Chicago, then spent 2025 to 2026 abroad studying business in Sweden and France. I like working where code meets people: writing software, making sense of data, and explaining both in plain language.
+
+Outside of class I've advised a startup CEO, guided incoming students as a college ambassador, and built reports that help a team see what needs fixing.
+
+---
+
+## Education
+
+| Chicago, IL | Linköping, Sweden | Lyon, France |
+|---|---|---|
+| **DePaul University** | **Linköping University** | **BBA INSEEC** |
+| B.A. in Computer Science, Concentration: Software Development | B.Soc.Sc. in Business Administration (International) | Exchange Program |
+| 2023 to 2026 | 2025 to 2026 | 2025 to 2026 |
+| GPA 3.96 / 4.00 | | |
+| Agile Methodology, Data Structures, Data Analysis, Technical Writing | Management Control, Project Management, Bachelor Thesis | Global Consulting Project, Marketing in a Flat World, Finance in a Flat World |
+
+---
+
+## Experience
+
+### Facility Project Management Intern
+**Tree House Humane Society**, Chicago, IL | 2026
+
+- Developed clear, simple facility guides and preventive maintenance schedules
+- Organized vendor contact information, service schedules, and facility documentation
+- Used Power BI and Excel to create reports about common facility issues
+
+### Consultant
+**Phrolo**, Lyon, France | 2025 to 2026
+
+- Advised the CEO of an AI mental health startup on B2B scaling, presenting market research and data-informed recommendations
+- Collaborated with cross-functional teams to create solutions and make well-informed decisions
+
+### Student Ambassador
+**DePaul College of Computing**, Chicago, IL | 2024 to 2025
+
+- Supported 60+ incoming students through email and live Q&A sessions, answering university-specific questions
+- Served as a liaison between students and faculty to improve communication and resolve concerns
+
+### IT Intern
+**Lyons Township**, La Grange, IL | 2022
+
+- Monitored system health and performance, addressing issues as they came up
+- Audited classroom technology setups, installed monitors, and performed hardware maintenance
+
+---
+
+## Projects
+
+### CSR reporting and customer loyalty
+*Bachelor thesis, Linköping University*
+
+A qualitative study of how corporate social responsibility reporting relates to customer loyalty in the airline industry. I interviewed airline professionals across the United States and Scandinavia.
+
+`Qualitative research` `Interviews` `Industry analysis`
+
+### Currently working on
+
+**Timed to-do app** (Java, Spring Boot)
+
+A task manager where each to-do has a deadline and a timer, so you can see what's due soon.
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Programming languages** | `R` `Python` `SQL` `Java` |
+| **Frameworks and libraries** | `JavaFX` `Plotly` `Pandas` `NumPy` `PyTorch` |
+| **Web development** | `HTML` `CSS` `JavaScript` `WordPress` |
+| **Tools and version control** | `Git` `GitHub` `Maven` `Trello` `Google Workspace` |
+| **Data analytics** | `SPSS` `Microsoft Excel` `Google Sheets` |
+
+---
+
+## Want to work together?
+
+I'm open to software development and data roles. The fastest way to reach me is email.
+
+**[angangelovska17@gmail.com](mailto:angangelovska17@gmail.com)**
+
+[Résumé (PDF)](resume.pdf) | [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
