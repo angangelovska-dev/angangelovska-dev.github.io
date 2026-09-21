@@ -11,7 +11,7 @@ title: Your Name
 
 B.A. in Computer Science at DePaul University, with a year of business studies in Sweden and France.
 
-[Résumé (PDF)](resume.pdf) | [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) | [Email](mailto:you@example.com)
+[GitHub](https://github.com/angangelovska-dev) | [LinkedIn](https://www.linkedin.com/in/angela-angelovska-997018315) | [Email](mailto:angangelovska17@gmail.com)
 
 
 ## About me
@@ -24,8 +24,6 @@ Outside of class I've advised a startup CEO, guided incoming students as a colle
 
 ## Education
 
-| Chicago, IL | Linköping, Sweden | Lyon, France |
-|---|---|---|
 | **DePaul University** | **Linköping University** | **BBA INSEEC** |
 | B.A. in Computer Science, Concentration: Software Development | B.Soc.Sc. in Business Administration (International) | Exchange Program |
 | 2023 to 2026 | 2025 to 2026 | 2025 to 2026 |
@@ -97,5 +95,3 @@ A task manager where each to-do has a deadline and a timer, so you can see what'
 I'm open to software development and data roles. The fastest way to reach me is email.
 
 **[angangelovska17@gmail.com](mailto:angangelovska17@gmail.com)**
-
-[Résumé (PDF)](resume.pdf) | [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
