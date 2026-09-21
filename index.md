@@ -5,7 +5,7 @@ title: Your Name
 
 # Your Name
 
-![Photo of Your Name](assets/img/graduationPhoto.jpeg)
+<img src="/assets/img/graduationPhoto.jpeg" alt="My Image" width="400">
 
 **I build software and turn data into clear decisions.**
 
